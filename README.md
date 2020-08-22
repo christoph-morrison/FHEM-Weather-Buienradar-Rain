@@ -1,7 +1,7 @@
-# FHEM::Weather::Buienradar::Rain
+# FHEM::Weather::Buienradar::Precipitation
 
 ## General description
-``FHEM::Weather::Buienradar::Rain`` extends [FHEM](https://fhem.de/) with precipitation information, delivered by the dutch service <a href="https://buienradar.nl">Buienradar</a>.
+``FHEM::Weather::Buienradar::Precipitation`` extends [FHEM](https://fhem.de/) with precipitation information, delivered by the dutch service <a href="https://buienradar.nl">Buienradar</a>.
 
 ## License
 This software is public domain by the [Unlicense](https://unlicense.org/).
