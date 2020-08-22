@@ -1,4 +1,4 @@
-# FHEM::Buienradar
+# FHEM::Weather::Buienradar::Rain
 
 ## General description
 ``FHEM::Weather::Buienradar::Rain`` extends [FHEM](https://fhem.de/) with precipitation information, delivered by the dutch service <a href="https://buienradar.nl">Buienradar</a>.
